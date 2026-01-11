@@ -1,5 +1,5 @@
 ## Hi there my name is Ted Tesfaye 👋 Welcome to my GitHub. More to come soon
-
+## I am currently a Cloud FinOps Analyst looking to become a FinOps Engineer
 
 
 <!--
